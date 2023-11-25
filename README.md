@@ -17,9 +17,6 @@ I'm [Your Name], a passionate developer from [Your Location].
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Notnobcoder&layout=compact&theme=radical)](https://github.com/your-username)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Notnobcoder&theme=rogue)
-
-![Lovoj](https://tush.dlr9tim7wl44e.amplifyapp.com)
 ### 🚀 My Tech Stack
 
 - **Languages:** [Your Top Languages]
