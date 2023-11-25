@@ -1,5 +1,5 @@
 <img src="https://myreadme.vercel.app/api/embed/Notnobcoder?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Notnobcoder)](https://github.com/madushadhanushka/github-readme)
 <!--
 **Notnobcoder/Notnobcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
