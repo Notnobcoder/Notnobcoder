@@ -11,13 +11,13 @@ I'm [Your Name], a passionate developer from [Your Location].
 - 💬 Ask me about [Anything You Want to Talk About].
 - 📫 How to reach me: [Your Email or Social Media].
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Notnobcoder&color=brightgreen)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)](https://github.com/your-username)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Notnobcoder&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)](https://github.com/your-username)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Notnobcoder&layout=compact&theme=radical)](https://github.com/your-username)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=rogue)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Notnobcoder&theme=rogue)
 
 ### 🚀 My Tech Stack
 
