@@ -5,14 +5,9 @@
 
 I'm [Your Name], a passionate developer from [Your Location].
 
-- 🔭 I’m currently working on [Your Current Project].
-- 🌱 I’m currently learning [What You're Learning].
-- 👯 I’m looking to collaborate on [Projects You're Interested In].
-- 💬 Ask me about [Anything You Want to Talk About].
-- 📫 How to reach me: [Your Email or Social Media].
-
-![Profile Views](https://komarev.com/ghpvc/?username=Notnobcoder&color=brightgreen)
-
+- 🔭 I’m currently working on Real Estate Website.
+- 🌱 I’m currently learning Rust.
+  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Notnobcoder&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)](https://github.com/your-username)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Notnobcoder&layout=compact&theme=radical)](https://github.com/your-username)
