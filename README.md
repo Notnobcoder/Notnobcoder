@@ -7,8 +7,7 @@ I'm [Your Name], a passionate developer from [Your Location].
 
 - 🔭 I’m currently working on Real Estate Website.
 - 🌱 I’m currently learning Rust.
-  
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Notnobcoder&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)](https://github.com/your-username)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Notnobcoder&layout=compact&theme=radical)](https://github.com/your-username)
 
