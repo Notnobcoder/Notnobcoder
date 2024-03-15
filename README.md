@@ -17,9 +17,3 @@ I'm Tushar, a passionate developer from INDIA.
 - **Frameworks:** React, Next Js
 - **Tools:** Zod , React-hook-form , Pyright
 
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Website](https://img.shields.io/badge/-Portfolio-%233e4e68?style=flat-square&logo=react&logoColor=white)](https://your-portfolio.com)
-
