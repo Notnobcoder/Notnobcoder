@@ -3,7 +3,7 @@
 </div>
 # Hi there! 👋
 
-I'm [Your Name], a passionate developer from [Your Location].
+I'm Tushar, a passionate developer from INDIA.
 
 - 🔭 I’m currently working on Real Estate Website.
 - 🌱 I’m currently learning Rust.
@@ -13,9 +13,9 @@ I'm [Your Name], a passionate developer from [Your Location].
 
 ### 🚀 My Tech Stack
 
-- **Languages:** [Your Top Languages]
-- **Frameworks:** [Your Favorite Frameworks]
-- **Tools:** [Your Preferred Tools]
+- **Languages:** Javascript , Rust
+- **Frameworks:** React, Next Js
+- **Tools:** Zod , React-hook-form , Pyright
 
 ### 🤝 Connect with Me
 
