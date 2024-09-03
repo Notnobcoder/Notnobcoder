@@ -1,6 +1,3 @@
-<div>
-<img src="https://myreadme.vercel.app/api/embed/Notnobcoder?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
-</div>
 # Hi there! 👋
 
 I'm Tushar, a passionate developer from INDIA.
